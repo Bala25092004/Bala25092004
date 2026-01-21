@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm Balakrishnan J <br>Third-Year Computer Science & Engineering (CSE) Student<br>Skills: Python, Dart, HTML, Excel, Data Entry, Fast Typing  <br>Projects: AI Resume Builder (Streamlit)  <br>Location: Thirunelveli, Tamil Nadu, India  <br>Contact: j.balakrishnan2005@gmail.com  <br><br> Passionate about AI, career guidance, and tech innovations!  <br>
+ I'm Balakrishnan J <br>Final-Year Computer Science & Engineering (CSE) Student<br>Skills: Python, Dart, HTML, Excel, Data Entry,<br>Projects: AI Resume Builder (Streamlit)  <br>Location: Thirunelveli, Tamil Nadu, India  <br>Contact: j.balakrishnan2005@gmail.com  <br><br> Passionate about AI, career guidance, and tech innovations!  <br>
 
 
 ## 🌐 Socials:
